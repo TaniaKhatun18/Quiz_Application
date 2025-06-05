@@ -1,4 +1,4 @@
-#  Python Quiz Application (Tkinter GUI)
+# 💻 Python Quiz Application (Tkinter GUI)
 This is a beginner-friendly **Python Quiz Application** built using the **Tkinter GUI toolkit**. The app allows users to enter their name, answer a set of randomized multiple-choice questions, and get real-time feedback and scores. A countdown timer is included for each question to add a challenging twist.
 
 ## 🎯 Features
@@ -61,6 +61,9 @@ No external libraries are required as everything is handled through Python's sta
 
 **Tania Khatun**
 Aspiring AI Developer | Python & GUI Enthusiast
+
+📄 License
+This project is for educational purposes and personal learning.
 
 📬 Contact
 Feel free to connect or give feedback!
