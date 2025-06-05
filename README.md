@@ -61,3 +61,8 @@ No external libraries are required as everything is handled through Python's sta
 
 **Tania Khatun**
 Aspiring AI Developer | Python & GUI Enthusiast
+
+📬 Contact
+Feel free to connect or give feedback!
+📧 Email: sania.khatun18022006@gmail.com
+🌐 LinkedIn: : www.linkedin.com/in/tania-khatun-024a30324
